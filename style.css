@@ -2,3 +2,12 @@ body
 {
 background-color: #de83d0;
 }
+
+h1 
+{
+  font-family: 'Arial', sans-serif;
+  font-size: 2rem;
+  color: #333;
+  margin: 0 0 16px 0;
+  line-height: 1.3;
+}
